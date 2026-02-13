@@ -2,7 +2,7 @@
 
 A lightweight HTTP request inspector and logger with a real-time web UI. Send any HTTP request to the `/hook` endpoint and instantly see it in the browser — method, URL, headers, and body.
 
-![Screenshot](screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 ## Install
 
